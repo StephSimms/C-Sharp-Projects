@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.AssemblyInfo.cs
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.exe
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.deps.json
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.runtimeconfig.json
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.runtimeconfig.dev.json
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.dll
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\bin\Debug\netcoreapp3.1\IQuittable_Project.pdb
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.dll
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.pdb
+C:\Users\steph\source\repos\IQuittable_Project\IQuittable_Project\obj\Debug\netcoreapp3.1\IQuittable_Project.genruntimeconfig.cache

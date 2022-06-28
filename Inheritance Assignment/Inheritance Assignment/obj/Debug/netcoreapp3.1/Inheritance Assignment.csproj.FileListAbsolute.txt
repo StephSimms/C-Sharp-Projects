@@ -1,0 +1,5 @@
+C:\Users\steph\source\repos\Inheritance Assignment\Inheritance Assignment\obj\Debug\netcoreapp3.1\Inheritance Assignment.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\Inheritance Assignment\Inheritance Assignment\obj\Debug\netcoreapp3.1\Inheritance Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\Inheritance Assignment\Inheritance Assignment\obj\Debug\netcoreapp3.1\Inheritance Assignment.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Inheritance Assignment\Inheritance Assignment\obj\Debug\netcoreapp3.1\Inheritance Assignment.AssemblyInfo.cs
+C:\Users\steph\source\repos\Inheritance Assignment\Inheritance Assignment\obj\Debug\netcoreapp3.1\Inheritance Assignment.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.exe
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.deps.json
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.runtimeconfig.json
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.runtimeconfig.dev.json
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.dll
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\bin\Debug\netcoreapp3.1\Enums_Project.pdb
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.AssemblyInfo.cs
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.dll
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.pdb
+C:\Users\steph\source\repos\Enums_Project\Enums_Project\obj\Debug\netcoreapp3.1\Enums_Project.genruntimeconfig.cache

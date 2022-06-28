@@ -1,0 +1,7 @@
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\bin\Debug\ClassAndMethodsAssignment.exe.config
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\bin\Debug\ClassAndMethodsAssignment.exe
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\bin\Debug\ClassAndMethodsAssignment.pdb
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\obj\Debug\ClassAndMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\obj\Debug\ClassAndMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\obj\Debug\ClassAndMethodsAssignment.exe
+C:\Users\steph\source\repos\ClassAndMethodsAssignment\ClassAndMethodsAssignment\obj\Debug\ClassAndMethodsAssignment.pdb

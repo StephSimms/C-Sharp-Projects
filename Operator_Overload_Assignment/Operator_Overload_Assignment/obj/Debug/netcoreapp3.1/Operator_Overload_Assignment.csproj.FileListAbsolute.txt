@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.AssemblyInfo.cs
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.exe
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.deps.json
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.runtimeconfig.json
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.runtimeconfig.dev.json
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.dll
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\bin\Debug\netcoreapp3.1\Operator_Overload_Assignment.pdb
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.dll
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.pdb
+C:\Users\steph\source\repos\Operator_Overload_Assignment\Operator_Overload_Assignment\obj\Debug\netcoreapp3.1\Operator_Overload_Assignment.genruntimeconfig.cache
